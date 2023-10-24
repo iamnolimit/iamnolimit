@@ -1,5 +1,5 @@
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 ![Visitor Count](https://profile-counter.glitch.me/{iamnolimit}/count.svg)
 
 <!--
