@@ -1,9 +1,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamnolimit&show_icons=true&theme=transparent)
 
-<b>Total Visitor</b> ⚡
-
-![Visitor Count](https://profile-counter.glitch.me/{iamnolimit}/count.svg)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamnolimit&layout=compact)
 
 <!--
 **iamnolimit/iamnolimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
