@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Visitor Count](https://profile-counter.glitch.me/{iamnolimit}/count.svg)
 
 <!--
 **iamnolimit/iamnolimit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
