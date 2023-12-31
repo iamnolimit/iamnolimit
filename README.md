@@ -1,4 +1,3 @@
-🔭 I’m currently working on [vmedis](https://vmedis.com)<br/>
 🌱 I’m currently learning **NextJS, Prisma, Convex**<br/>
 ⚡ Fun fact: **I think I'm cool**
 
