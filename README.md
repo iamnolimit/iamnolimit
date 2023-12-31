@@ -1,6 +1,4 @@
-<a href="">
-        <img align="" height='130px' src="https://github-readme-stats.vercel.app/api?username=iamnolimit&hide_title=true&show_icons=true&include_all_commits=true&line_height=21&theme=transparent" /><img align="" height='130px' src="https://github-readme-stats.vercel.app/api/top-langs/?username=adamalston&hide_title=true&layout=compact&theme=transparent" />
-    </a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamnolimit&theme=transparent&hide_border=true)](https://git.io/streak-stats)
 <br/><br/>
 
 🌱 I’m currently learning **NextJS, Prisma, Convex**<br/>
