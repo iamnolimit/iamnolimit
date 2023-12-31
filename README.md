@@ -15,7 +15,7 @@
 - ⚡ Fun fact: **I think I'm cool**
 
 ### Connect with me:
-
+![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 <!-- Add your social media links here -->
 
 ### Languages and Tools:
