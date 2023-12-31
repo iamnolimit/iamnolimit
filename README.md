@@ -1,6 +1,3 @@
-# Hi 👋, I'm Wan
-## A passionate fullstack developer from Indonesia
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnolimit&label=Profile%20views&color=0e75b6&style=flat" alt="iamnolimit" /> </p>
 
 <p align="left"> 
