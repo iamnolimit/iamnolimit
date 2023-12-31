@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript&logoColor=007ACC)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=MySQL)
-![MQL5](https://img.shields.io/badge/MQL5)
+![Static Badge](https://img.shields.io/badge/MQL5)
 
 **Some of the technologies I have worked with**
 
