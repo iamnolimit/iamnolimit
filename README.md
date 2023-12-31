@@ -1,4 +1,4 @@
-[![GitHub Streak](https://streak-stats.demolab.com?user=iamnolimit&theme=transparent&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamnolimit&theme=dark-smoky&hide_border=true)](https://git.io/streak-stats)
 <br/><br/>
 
 🌱 I’m currently learning **NextJS, Prisma, Convex**<br/>
