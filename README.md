@@ -1,14 +1,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnolimit&label=Profile%20views&color=0e75b6&style=flat" alt="iamnolimit" /> </p>
 
-<p align="left"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=iamnolimit" alt="iamnolimit" />
-  </a> 
-</p>
-
-- 🔭 I’m currently working on [vmedis](https://vmedis.com)
-- 🌱 I’m currently learning **NextJS, Prisma, Convex**
-- ⚡ Fun fact: **I think I'm cool**
+🔭 I’m currently working on [vmedis](https://vmedis.com)
+🌱 I’m currently learning **NextJS, Prisma, Convex**
+⚡ Fun fact: **I think I'm cool**
 
 ### Connect with me:
 
