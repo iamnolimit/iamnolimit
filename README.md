@@ -6,7 +6,7 @@
   </a> 
 </p>
 
-- 🔭 I’m currently working on [vmedis](vmedis.com)
+- 🔭 I’m currently working on [vmedis](https://vmedis.com)
 - 🌱 I’m currently learning **NextJS, Prisma, Convex**
 - ⚡ Fun fact: **I think I'm cool**
 
