@@ -1,5 +1,3 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamnolimit&label=Profile%20views&color=0e75b6&style=flat" alt="iamnolimit" /> </p>
-
 🔭 I’m currently working on [vmedis](https://vmedis.com)<br/>
 🌱 I’m currently learning **NextJS, Prisma, Convex**<br/>
 ⚡ Fun fact: **I think I'm cool**
