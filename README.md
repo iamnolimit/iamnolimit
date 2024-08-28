@@ -10,5 +10,5 @@
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=iamnolimit)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=iamnolimit&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
