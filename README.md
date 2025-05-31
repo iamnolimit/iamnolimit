@@ -1,5 +1,5 @@
 ### 💫 About Me:
-I’m a passionate Software Developer who loves creating impactful digital experiences. Whether it’s building robust backend systems in Python and PHP, crafting beautiful web interfaces with React, JavaScript, and TypeScript, or designing intuitive mobile apps and user experiences, I thrive at the intersection of code and creativity.
+I’m a passionate Software Developer who loves creating impactful digital experiences. Whether it’s building robust backend systems in Python and PHP, crafting beautiful web interfaces with React, JavaScript, and TypeScript, or designing intuitive mobile apps and user experiences, I thrive at the intersection of code and creativity. A technology enthusiast who is always ready to chase perfection in every code written.
 
 
 ### 💻 Tech Stack:
