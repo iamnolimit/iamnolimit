@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=711CE8&size=28&width=500&center=true&lines=I+AM+NOLIMIT;WAVE+EFFECT+AVAILABLE" />
+  <img src="https://svg-banners.vercel.app/api?type=glitch&text1=I%20AM%20NOLIMIT&width=800&height=200" />
 </p>
