@@ -1,4 +1,4 @@
-<blockquote>
+```js
 const iamnolimit = {
 pronouns: "he" | "him",
 code: [
@@ -37,4 +37,4 @@ architecture: [
 currentFocus: "Building scalable full-stack applications with modern JavaScript frameworks",
 challenge: "Exploring the intersection of AI and web development to create intelligent user experiences"
 }
-</blockquote>
+```
