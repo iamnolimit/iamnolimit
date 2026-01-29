@@ -4,4 +4,4 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/readme/terminal.gif" width="500">
 </p>
-![a](https://komarev.com/ghpvc/?username=iamnolimit)
+![](https://komarev.com/ghpvc/?username=iamnolimit&style=flat-square)
