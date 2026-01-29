@@ -4,4 +4,5 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/trekhleb/trekhleb/master/assets/readme/terminal.gif" width="500">
 </p>
-![](https://komarev.com/ghpvc/?username=iamnolimit&style=flat-square)
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=iamnolimit&style=flat-square)
+
