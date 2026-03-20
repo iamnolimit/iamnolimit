@@ -24,6 +24,6 @@
 
 <p align="center">
   <a href="https://go-skill-icons.vercel.app/">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,php,go" />
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=python,js,ts,php,go,figma,docker,kotlin" />
   </a>
 </p>
